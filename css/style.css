@@ -1,0 +1,67 @@
+html{
+background-color: #212121;
+    margin: 0px;
+    padding: 0px;
+}
+form{
+    padding-top: 35px;
+    padding-bottom: 35px;
+}
+section>input{
+    display: block;
+  margin-bottom: 15px;
+  margin-left: 65px;
+}
+section{
+    background-color: #7d7d7d;
+    padding-top: 40px;
+    padding-bottom: 30px;
+    width: 400px;
+    margin-left: 400px;
+}
+div{ 
+    background-color: #42a3f4;
+    height: 120px;
+    width: 140px;
+    margin-left: 400px;
+    padding-top: 20px;
+    padding-left: 160px;
+    padding-right: 100px;
+}
+.boton + h5{
+    display: inline;
+    width: 20px;
+}
+.boton {
+    font-size: 12px;
+    background-color: #42a3f4;
+    width: 16px;
+    height: 16px;
+    border: 2px solid white;
+    margin-left: 65px;
+}
+input, #boton2{
+    width: 250px;
+    height: 30px;
+    color: white;
+}
+#boton2{
+    background-color: #42a3f4;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    margin-left: 65px;
+    border: 0px;
+}
+div h4{
+    font-size: 18px;
+    color: white;  
+}
+i[class="fas fa-lock"]{
+    width: 20px;
+    height: 20px;
+    color: white;
+    margin-left: 20px;
+}
+h5{
+    color: white;
+}
